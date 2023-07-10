@@ -18,6 +18,10 @@
       }
     ],
     "dashboardList":[
-      
+      {
+        "name" :"Sonu",
+        "score":7,
+        "total":10
+      }
     ]
   }
